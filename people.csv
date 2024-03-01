@@ -1,0 +1,101 @@
+name,id,email,role,manager,nickname,favorite_pet
+Michael Brown,EMP7703,michael.brown@outlook.com,Data Analyst,false,Maverick,Guinea Pig
+Linda Rodriguez,EMP5810,linda.rodriguez@hotmail.com,Designer,false,Virtuoso,Hamster
+David Jones,EMP4896,david.jones@outlook.com,Software Engineer,true,Maverick,Turtle
+John Jackson,EMP8744,john.jackson@hotmail.com,Software Engineer,false,Guru,Turtle
+Jessica Gonzalez,EMP2770,jessica.gonzalez@gmail.com,Designer,false,Savant,Hamster
+William Hernandez,EMP2710,william.hernandez@yahoo.com,Data Analyst,true,Prodigy,Snake
+Barbara Rodriguez,EMP6601,barbara.rodriguez@yahoo.com,Data Analyst,false,Savant,Fish
+Susan Brown,EMP2282,susan.brown@hotmail.com,Data Analyst,true,Virtuoso,Dog
+Richard Jackson,EMP8769,richard.jackson@hotmail.com,Designer,false,Savant,Dog
+David Martinez,EMP7428,david.martinez@gmail.com,Sales Associate,false,Prodigy,Rabbit
+Susan Lopez,EMP2060,susan.lopez@yahoo.com,Software Engineer,false,Savant,Guinea Pig
+Sarah Wilson,EMP7470,sarah.wilson@hotmail.com,Data Analyst,false,Maestro,Turtle
+James Smith,EMP7376,james.smith@yahoo.com,HR Coordinator,false,Ace,Turtle
+Robert Johnson,EMP9527,robert.johnson@outlook.com,Customer Support,false,Savant,Fish
+Joseph Gonzalez,EMP6285,joseph.gonzalez@gmail.com,Designer,true,Wizard,Snake
+Thomas Lopez,EMP4068,thomas.lopez@outlook.com,Sales Associate,true,Whiz Kid,Cat
+Thomas Wilson,EMP1557,thomas.wilson@outlook.com,Designer,false,Virtuoso,Hamster
+Karen Jones,EMP9709,karen.jones@hotmail.com,HR Coordinator,false,Virtuoso,Snake
+Mary Johnson,EMP1987,mary.johnson@outlook.com,HR Coordinator,true,Wizard,Turtle
+Patricia Thomas,EMP3108,patricia.thomas@outlook.com,Designer,true,Guru,Turtle
+Thomas Martinez,EMP4704,thomas.martinez@yahoo.com,Data Analyst,true,Maestro,Snake
+Elizabeth Davis,EMP6571,elizabeth.davis@yahoo.com,Designer,false,Maverick,Hamster
+Linda Martinez,EMP4478,linda.martinez@outlook.com,HR Coordinator,false,Virtuoso,Rabbit
+Barbara Smith,EMP7879,barbara.smith@gmail.com,Software Engineer,false,Wizard,Hamster
+Karen Rodriguez,EMP5760,karen.rodriguez@yahoo.com,Designer,true,Maestro,Hamster
+Joseph Johnson,EMP2139,joseph.johnson@gmail.com,Data Analyst,false,Maestro,Parrot
+Charles Martinez,EMP6755,charles.martinez@gmail.com,Designer,true,Ace,Turtle
+Thomas Moore,EMP9255,thomas.moore@hotmail.com,Customer Support,false,Whiz Kid,Lizard
+Elizabeth Wilson,EMP6910,elizabeth.wilson@hotmail.com,Product Manager,false,Guru,Rabbit
+Barbara Johnson,EMP5402,barbara.johnson@hotmail.com,HR Coordinator,false,Whiz Kid,Lizard
+Susan Rodriguez,EMP1368,susan.rodriguez@gmail.com,Software Engineer,false,Savant,Guinea Pig
+Elizabeth Hernandez,EMP1864,elizabeth.hernandez@hotmail.com,Customer Support,true,Guru,Rabbit
+Michael Gonzalez,EMP8377,michael.gonzalez@outlook.com,Data Analyst,true,Ace,Guinea Pig
+Linda Moore,EMP9386,linda.moore@yahoo.com,Sales Associate,false,Virtuoso,Hamster
+James Rodriguez,EMP7847,james.rodriguez@yahoo.com,Marketing Specialist,false,Savant,Snake
+Richard Martin,EMP7834,richard.martin@hotmail.com,Designer,false,Ninja,Guinea Pig
+Richard Martinez,EMP8683,richard.martinez@outlook.com,Software Engineer,true,Ace,Snake
+Richard Anderson,EMP8365,richard.anderson@gmail.com,Customer Support,false,Maverick,Dog
+Susan Anderson,EMP8391,susan.anderson@yahoo.com,Marketing Specialist,true,Virtuoso,Fish
+Michael Jones,EMP6379,michael.jones@gmail.com,Customer Support,false,Virtuoso,Guinea Pig
+Karen Jones,EMP1219,karen.jones@outlook.com,Data Analyst,false,Maestro,Fish
+Richard Brown,EMP9322,richard.brown@hotmail.com,Customer Support,true,Wizard,Fish
+James Miller,EMP6331,james.miller@hotmail.com,Product Manager,false,Virtuoso,Guinea Pig
+Thomas Hernandez,EMP7617,thomas.hernandez@gmail.com,Marketing Specialist,false,Whiz Kid,Rabbit
+Susan Gonzalez,EMP5548,susan.gonzalez@outlook.com,HR Coordinator,false,Ninja,Parrot
+Elizabeth Johnson,EMP9584,elizabeth.johnson@outlook.com,Product Manager,true,Prodigy,Guinea Pig
+Michael Davis,EMP6478,michael.davis@gmail.com,HR Coordinator,false,Ninja,Dog
+Linda Lopez,EMP3461,linda.lopez@outlook.com,HR Coordinator,true,Guru,Parrot
+Joseph Brown,EMP5687,joseph.brown@hotmail.com,Customer Support,false,Whiz Kid,Guinea Pig
+John Williams,EMP3926,john.williams@gmail.com,Customer Support,true,Wizard,Fish
+Barbara Johnson,EMP1856,barbara.johnson@gmail.com,Customer Support,false,Maverick,Turtle
+John Lopez,EMP1060,john.lopez@hotmail.com,HR Coordinator,false,Maverick,Guinea Pig
+David Davis,EMP2619,david.davis@yahoo.com,Marketing Specialist,false,Savant,Lizard
+Susan Williams,EMP8769,susan.williams@outlook.com,HR Coordinator,true,Ninja,Rabbit
+William Taylor,EMP9778,william.taylor@gmail.com,Designer,true,Savant,Dog
+Sarah Garcia,EMP6531,sarah.garcia@hotmail.com,Marketing Specialist,true,Prodigy,Guinea Pig
+Sarah Taylor,EMP3912,sarah.taylor@outlook.com,Sales Associate,false,Wizard,Cat
+John Martinez,EMP8069,john.martinez@hotmail.com,Data Analyst,true,Ninja,Fish
+James Gonzalez,EMP3203,james.gonzalez@gmail.com,HR Coordinator,false,Whiz Kid,Cat
+Karen Miller,EMP1230,karen.miller@outlook.com,Customer Support,true,Whiz Kid,Turtle
+Michael Rodriguez,EMP1094,michael.rodriguez@gmail.com,Customer Support,true,Savant,Lizard
+Charles Rodriguez,EMP8684,charles.rodriguez@outlook.com,Sales Associate,false,Wizard,Cat
+Sarah Martinez,EMP7382,sarah.martinez@yahoo.com,Product Manager,false,Whiz Kid,Rabbit
+Mary Brown,EMP6427,mary.brown@yahoo.com,HR Coordinator,false,Whiz Kid,Cat
+Susan Martin,EMP6333,susan.martin@gmail.com,Sales Associate,false,Virtuoso,Lizard
+Sarah Smith,EMP8275,sarah.smith@hotmail.com,Software Engineer,false,Virtuoso,Rabbit
+Robert Johnson,EMP7483,robert.johnson@gmail.com,Designer,false,Guru,Guinea Pig
+John Anderson,EMP9660,john.anderson@outlook.com,Designer,true,Prodigy,Fish
+Linda Jackson,EMP9418,linda.jackson@outlook.com,Marketing Specialist,false,Ace,Snake
+Barbara Moore,EMP8741,barbara.moore@gmail.com,Sales Associate,false,Virtuoso,Fish
+Sarah Rodriguez,EMP3465,sarah.rodriguez@outlook.com,Sales Associate,false,Savant,Lizard
+James Martinez,EMP8996,james.martinez@hotmail.com,Product Manager,false,Prodigy,Snake
+Patricia Johnson,EMP2167,patricia.johnson@gmail.com,Designer,false,Maverick,Cat
+Sarah Miller,EMP7715,sarah.miller@hotmail.com,Software Engineer,false,Wizard,Dog
+Thomas Gonzalez,EMP2414,thomas.gonzalez@hotmail.com,Data Analyst,false,Ace,Cat
+Joseph Martin,EMP9653,joseph.martin@hotmail.com,Product Manager,false,Whiz Kid,Dog
+Karen Brown,EMP6367,karen.brown@hotmail.com,Sales Associate,true,Whiz Kid,Cat
+Barbara Hernandez,EMP4503,barbara.hernandez@gmail.com,Customer Support,false,Wizard,Parrot
+Karen Martin,EMP1181,karen.martin@yahoo.com,Customer Support,false,Guru,Guinea Pig
+Linda Smith,EMP5829,linda.smith@yahoo.com,Designer,true,Ace,Hamster
+Charles Thomas,EMP2630,charles.thomas@outlook.com,Marketing Specialist,false,Guru,Hamster
+Charles Davis,EMP4734,charles.davis@gmail.com,HR Coordinator,false,Maestro,Snake
+Joseph Garcia,EMP8361,joseph.garcia@gmail.com,Sales Associate,false,Maverick,Lizard
+Thomas Taylor,EMP4758,thomas.taylor@outlook.com,Data Analyst,false,Virtuoso,Lizard
+Robert Miller,EMP9289,robert.miller@yahoo.com,Software Engineer,true,Whiz Kid,Snake
+James Brown,EMP8421,james.brown@gmail.com,Designer,false,Guru,Hamster
+Robert Rodriguez,EMP8397,robert.rodriguez@gmail.com,Software Engineer,false,Ace,Rabbit
+Susan Smith,EMP1343,susan.smith@hotmail.com,Software Engineer,true,Maestro,Hamster
+William Wilson,EMP8766,william.wilson@yahoo.com,HR Coordinator,true,Guru,Hamster
+Joseph Garcia,EMP7083,joseph.garcia@hotmail.com,Product Manager,false,Ninja,Fish
+Barbara Rodriguez,EMP2502,barbara.rodriguez@outlook.com,Sales Associate,false,Prodigy,Parrot
+Jessica Rodriguez,EMP5945,jessica.rodriguez@hotmail.com,Marketing Specialist,false,Maverick,Cat
+Elizabeth Jones,EMP9035,elizabeth.jones@outlook.com,Product Manager,true,Virtuoso,Lizard
+Mary Anderson,EMP6637,mary.anderson@hotmail.com,HR Coordinator,false,Guru,Snake
+Elizabeth Martinez,EMP6214,elizabeth.martinez@hotmail.com,Data Analyst,false,Prodigy,Parrot
+Jennifer Lopez,EMP7609,jennifer.lopez@gmail.com,HR Coordinator,true,Wizard,Turtle
+Jennifer Jackson,EMP7074,jennifer.jackson@yahoo.com,Software Engineer,false,Wizard,Snake
+James Moore,EMP9351,james.moore@yahoo.com,Software Engineer,false,Ace,Guinea Pig
+Barbara Martin,EMP7368,barbara.martin@gmail.com,Sales Associate,false,Ace,Turtle
+David Davis,EMP3829,david.davis@outlook.com,Sales Associate,true,Maestro,Cat
